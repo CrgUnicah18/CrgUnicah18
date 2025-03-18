@@ -21,7 +21,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás algunos de mis proyectos y 
 - Honduras +504 9481-6110
 - Instagram gabriel_gironmora
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Honduras</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
